@@ -30,10 +30,6 @@ I spearheaded the integration of DocuSign into the Accounting department's wire 
 
 When I'm not facilitating standups or hunting down blockers, you can find me yelling at the TV during Lakers and Dodgers games (LA sports, ride or die 💜💛💙). I also love getting out and playing volleyball and skateboarding. And yes — I am a massive Star Wars fan. May the Force be with your sprint velocity.
 
-## Let's Connect
-
-I'm open to new opportunities and always happy to chat about Agile, delivery, or whether the prequels are underrated (they are). Feel free to reach out\!
-
 - **Email:** stevero90631@gmail.com  
 - **LinkedIn:** [linkedin.com/in/steve-robles-b0522b2](https://www.linkedin.com/in/steve-robles-csm-cspo-b0522b2/)
 
